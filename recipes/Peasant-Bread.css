@@ -1,4 +1,9 @@
-
+h1,
+h3,
+p,
+li {
+    font-family: 'Times New Roman', Times, serif;
+}
 
 img {
     height: 500px;
@@ -37,4 +42,14 @@ strong {
 
 h1 {
     background-color: #CED8FF;
+    font-size: 40px; 
+}
+
+h3 {
+    font-size: 25px;
+}
+
+p,
+li {
+    font-size: 17px;
 }
