@@ -21,3 +21,16 @@ ul {
     margin: 0 auto;
     text-align: left;
 }
+
+h1,
+h3 {
+    color: #E6288D;
+}
+
+strong {
+    color: #4F2FA6;
+}
+
+.recipe-facts {
+    color: #669999;
+}
