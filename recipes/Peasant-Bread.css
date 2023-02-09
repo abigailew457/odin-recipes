@@ -6,7 +6,7 @@ li {
 }
 
 img {
-    height: 500px;
+    height: 600px;
     width: auto;
 }
 
@@ -43,13 +43,16 @@ strong {
 h1 {
     background-color: #CED8FF;
     font-size: 40px; 
+    font-weight: 800;
 }
 
 h3 {
     font-size: 25px;
+    font-weight: 600;
 }
 
 p,
 li {
     font-size: 17px;
+    font-weight: 300;
 }
