@@ -12,3 +12,12 @@ ul {
     margin: 0 auto;
     text-align: left;
 }
+
+h1 {
+    background-color: #CED8FF;
+    color: #FF36A8;
+}
+
+ul {
+    color: #4F2FA6;
+}
