@@ -4,3 +4,20 @@ img {
     height: 500px;
     width: auto;
 }
+
+h1,
+h3,
+.recipe-facts,
+.img,
+.description,
+ol,
+ul {
+    text-align: center;
+}
+
+ol,
+ul {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+}
