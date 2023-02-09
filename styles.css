@@ -16,8 +16,12 @@ ul {
 h1 {
     background-color: #CED8FF;
     color: #FF36A8;
+    font-weight: 800;
+    font-size: 40px;
 }
 
 ul {
     color: #4F2FA6;
+    font-weight: 300;
+    font-size: 18px;
 }
