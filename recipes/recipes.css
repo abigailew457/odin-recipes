@@ -1,0 +1,58 @@
+h1,
+h3,
+p,
+li {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    height: 600px;
+    width: auto;
+}
+
+h1,
+h3,
+.recipe-facts,
+.img,
+.description,
+ol,
+ul {
+    text-align: center;
+}
+
+ol,
+ul {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+}
+
+h1,
+h3 {
+    color: #E6288D;
+}
+
+strong {
+    color: #4F2FA6;
+}
+
+.recipe-facts {
+    color: #669999;
+}
+
+h1 {
+    background-color: #CED8FF;
+    font-size: 40px; 
+    font-weight: 800;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+p,
+li {
+    font-size: 17px;
+    font-weight: 300;
+}
