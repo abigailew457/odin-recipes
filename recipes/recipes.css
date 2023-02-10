@@ -1,5 +1,5 @@
 body {
-    background-color: #CED8FF;
+    background-color: #66999997;
 }
 
 h1,
@@ -44,11 +44,10 @@ h4 {
 }
 
 .recipe-facts {
-    color: #669999;
+    color: #4F2FA690;
 }
 
 h1 {
-    background-color: #CED8FF;
     font-size: 40px; 
     font-weight: 800;
 }

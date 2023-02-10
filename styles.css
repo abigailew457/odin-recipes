@@ -1,5 +1,5 @@
 body {
-    background-color: #CED8FF;
+    background-color: #66999997;
 }
 
 h1,
@@ -16,8 +16,7 @@ ul {
 }
 
 h1 {
-    background-color: #CED8FF;
-    color: #FF36A8;
+    color: #C90078;
     font-weight: 800;
     font-size: 40px;
 }
