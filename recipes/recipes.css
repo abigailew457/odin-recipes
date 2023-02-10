@@ -1,5 +1,6 @@
 h1,
 h3,
+h4,
 p,
 li {
     font-family: 'Times New Roman', Times, serif;
@@ -12,6 +13,7 @@ img {
 
 h1,
 h3,
+h4,
 .recipe-facts,
 .img,
 .description,
@@ -32,7 +34,8 @@ h3 {
     color: #E6288D;
 }
 
-strong {
+strong,
+h4 {
     color: #4F2FA6;
 }
 
