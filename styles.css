@@ -3,7 +3,8 @@ body {
 }
 
 h1,
-ul {
+ul,
+div {
     text-align: center;
     list-style-position: initial;
     font-family: "Times New Roman", Times, serif;
@@ -21,8 +22,39 @@ h1 {
     font-size: 40px;
 }
 
-ul {
+ul,
+div {
     color: #4F2FA6;
     font-weight: 300;
     font-size: 18px;
+}
+
+/* Flex box testing */
+
+ul,
+h1,
+.descriptors {
+    border: 5px solid #4F2FA6;
+    display: flex;
+    background-color: peachpuff;
+}
+
+li,
+h1,
+.descriptors div {
+    flex: 1;
+}
+
+li,
+.descriptors div {
+    border: 4px solid brown;
+}
+
+ul {
+    flex-direction: column;
+    gap: 10px;
+}
+
+h1 {
+    justify-content: center;
 }
